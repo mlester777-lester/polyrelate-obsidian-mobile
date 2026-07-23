@@ -1,0 +1,9 @@
+{
+  "id": "polyrelate-bridge-mobile",
+  "name": "PolyRelate Bridge (Mobile)",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "One-tap Paste Link for PolyRelate on Obsidian iOS/Android — inserts a captured Bookmark's link at the cursor and reports back so PolyRelate can record the relationship, mirroring the Mac app's Paste Link. Pairs with PolyRelateShare's \"Send to Obsidian\" action; does not replace the separate desktop-only PolyRelate Bridge plugin, which keeps handling Mac-side capture and previews.",
+  "author": "Martin Lester",
+  "isDesktopOnly": false
+}
