@@ -1,9 +1,1 @@
-{
-  "id": "polyrelate-bridge-mobile",
-  "name": "PolyRelate Bridge (Mobile)",
-  "version": "1.0.0",
-  "minAppVersion": "1.5.0",
-  "description": "One-tap Paste Link for PolyRelate on Obsidian iOS/Android — inserts a captured Bookmark's link at the cursor and reports back so PolyRelate can record the relationship, mirroring the Mac app's Paste Link. Pairs with PolyRelateShare's \"Send to Obsidian\" action; does not replace the separate desktop-only PolyRelate Bridge plugin, which keeps handling Mac-side capture and previews.",
-  "author": "Martin Lester",
-  "isDesktopOnly": false
-}
+{"id":"polyrelate-bridge-mobile","name":"LesterMark Bridge","version":"1.2.0","minAppVersion":"1.5.0","description":"One-tap Paste Link and Capture for LesterMark on Obsidian iOS/Android — inserts a captured Bookmark's link at the cursor and reports back so LesterMark can record the relationship, mirroring the Mac app's Paste Link. Pairs with LesterMarkShare's \"Paste Link (from Bookmark)\" action; does not replace the separate desktop-only LesterMark Bridge plugin, which keeps handling Mac-side capture and previews. v1.1.0 added a Command Palette command (\"Paste Link\") that reads a staged link from the system clipboard, for when the push-based Send to Obsidian action isn't convenient. v1.2.0 adds \"Capture current note\", mirroring Mac's own Capture for the active Obsidian note.","author":"Martin Lester","isDesktopOnly":false}
